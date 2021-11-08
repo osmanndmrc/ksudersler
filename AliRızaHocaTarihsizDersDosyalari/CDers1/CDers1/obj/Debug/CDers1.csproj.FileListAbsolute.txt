@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\CDers1\CDers1\bin\Debug\CDers1.exe.config
+C:\Users\User\source\repos\CDers1\CDers1\bin\Debug\CDers1.exe
+C:\Users\User\source\repos\CDers1\CDers1\bin\Debug\CDers1.pdb
+C:\Users\User\source\repos\CDers1\CDers1\obj\Debug\CDers1.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CDers1\CDers1\obj\Debug\CDers1.Form1.resources
+C:\Users\User\source\repos\CDers1\CDers1\obj\Debug\CDers1.Properties.Resources.resources
+C:\Users\User\source\repos\CDers1\CDers1\obj\Debug\CDers1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\CDers1\CDers1\obj\Debug\CDers1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CDers1\CDers1\obj\Debug\CDers1.exe
+C:\Users\User\source\repos\CDers1\CDers1\obj\Debug\CDers1.pdb
